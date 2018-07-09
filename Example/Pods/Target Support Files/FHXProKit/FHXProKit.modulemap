@@ -1,0 +1,6 @@
+framework module FHXProKit {
+  umbrella header "FHXProKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

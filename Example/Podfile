@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXProKit_Example' do
+  pod 'FHXProKit', :path => '../'
+
+  target 'FHXProKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
