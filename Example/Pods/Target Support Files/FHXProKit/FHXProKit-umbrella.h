@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "FHXProKit.h"
 
 FOUNDATION_EXPORT double FHXProKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FHXProKitVersionString[];
